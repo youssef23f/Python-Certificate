@@ -1,11 +1,23 @@
-# Python Developer Certification 🐍
+# 🐍 Python Developer Certification
 
+![Certificate Preview](certificate.png)
+
+## 📜 Certification
 Successfully completed the Python Developer Certification from freeCodeCamp.
 
-- 300+ hours of coding and problem solving
-- Python programming
-- Algorithms & Data Structures
-- Software Development fundamentals
+🔹 300+ Hours of Coding  
+🔹 Python Programming  
+🔹 Problem Solving  
+🔹 Algorithms & Data Structures  
+🔹 Software Development Fundamentals  
 
-Certificate:
+## 🔗 Certificate Verification
 https://freecodecamp.org/certification/youssefeldeeb/python-v7
+
+## 🚀 Skills Gained
+- Python
+- OOP
+- Debugging
+- Automation
+- Git & GitHub
+- Clean Code
